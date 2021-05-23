@@ -8,7 +8,7 @@ import style from './custom.module.css'
       <h1 className="abc">hiiii</h1>
       <h1 style={{color:"red", backgroundColor:"black"}} >hii</h1>
       <h1 className={style.success} >hii</h1>
-      <button type="button" className="btn btn-primary">Primary</button>
+      <button type="button" className="btn btn-primary">click me</button>
       <div className="btn-group">
   <button type="button" className="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
     Action
